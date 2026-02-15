@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola there 👋
 
-<!--
-**grace031105/grace031105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is **Grace Anastasya Simanungkalit**.<br>
 
-Here are some ideas to get you started:
+I'm an Informatics student with a strong interest in **backend development**, **web system**, and **artificial intelligence**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i have worked on:
+- Web reservation system, focusing on backend logic, database relationship, and user flow
+- An AI-based early stunting detection web application, combining web development with basic machine learning concepts.
+- collaborative development using Git & Github
+
+Currently, i'm expanding my knowledge in **Artificial Intelligence** through the Dicoding program, with a focus on understanding AI concepts and real-world applications.
+
+I'm highly motivated to keep learning, improving my technical skills, and building impactfull technology-driven solutions.
+
+
